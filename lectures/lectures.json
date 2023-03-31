@@ -1,0 +1,433 @@
+{
+  "lectures": {
+    "module-01": {
+      "class-01": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/2b0MGArEVyYQ4FB7EFjxPhjfK8malbgT2EcoyCpCb8ZjrHHf-2i3r6OuENzamL4m.ccxT_ram1Jw9i3wx",
+          "date": "20221219",
+          "instructor": "Adam Owada / JB Tellez"
+        },
+        "backup": {"link": "https://zoom.us/rec/share/3OAJUeur4Pm_JlMak2YPoDI6OJteGreoAo-JFQPL41uWROa884alEk_vYVY4ST5G.PGh0tCDTphGujauW", "date": "20220718", "instructor": "JB Tellez"}
+
+      },
+      "class-01-extra": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/1VQGpWtdCL2wRZ_fQMf3vd5eic1h5NpMKpU2YAgLwfNeorPITe86DRMQK89xMMTk.-EFLvosTz_XX5tU_",
+          "date": "20221219",
+          "instructor": "Adam Owada / JB Tellez"
+        },
+        "backup": {"link": "https://zoom.us/rec/share/26_eYM5kWWeFARHUK6hhNlKVMX8MkL2npYBxQ15ncmLoJ9nleh8bI6q7hOv3H9E3.vO0xuodCsl5P6fUD", "date": "20220719", "instructor": "JB Tellez"}
+      },
+      "class-02": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/VpvpBikgbUl4bL1eGvQlUYBwZqcNJyY6aq9xDZgoLGw0EuJfMhj238-b208SvJAc.-BUjt3SzLbrM7Y1s",
+          "date": "20221220",
+          "instructor": "Adam Owada / JB Tellez"
+        },
+        "backup": {"link": "https://zoom.us/rec/share/uAEo1uc25HlJ4iXpgAiTxXMzt1ozGrdpfSRAY33YqaFoi_fm-yCYNExIKNUtkTWp.acfkXiBBNnbu4S2V", "date": "20220720", "instructor": "JB Tellez"}
+
+      },
+      "class-03": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/JLHAuuvS3q19m62RJxgG392hC9fvUlo4wbN-UJkr_yPMWVYDXr9V4AkLfOjwOtue.LY5qdsFrY569xAJ3",
+          "date": "20221221",
+          "instructor": "Adam Owada / JB Tellez"
+        },
+        "backup": {"link": "https://zoom.us/rec/share/wCay1S6OFxA0W60-GUQtQ_qqcSTH-SgIS0Sf0HCDwxs3StpzVO5Vxpu6XWLdvlp7.x4jTgXXdt6xKvtRC", "date": "20220721", "instructor": "JB Tellez"}
+
+      },
+      "class-04": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/hDs2LwXAUI89IZVk5M_UoSIrI5eLhj0bpRvZAZJCYOsYLYGFPTOWXWRYfYqO7eQ.30EjkIlYsGZWfNPR%C2%A0",
+          "date": "20222221",
+          "instructor": "Adam Owada / JB Tellez"
+        },
+        "backup": {"link": "https://zoom.us/rec/share/Edow_mm65XzGTA8wxWFT2umE4aUw2R7Lwi_G9D8sWNDX4y7HsFYlzI8_lQS-p90y.LyTiVl7vjmSupgaK", "date": "20220722", "instructor": "JB Tellez"}
+
+      },
+      "class-05-ccw": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/SGX4zUYFB0qJdFqfdNnlOEXCksqNKgqqXzfqmo35cktwTea0vKGrmtNSjyh2Qr70.j_-D_pT4dpBk3wUv%C2%A0",
+          "date": "20221223",
+          "instructor": "Adam Owada / JB Tellez"
+        },
+        "backup": {"link": "https://zoom.us/rec/share/KjQRrLg6UoT9Ju3GROUuh1wWZcc1_Xs-5WrhnVQ0XM4BOkDPdmtm4rbZwxpmyFkt.M1XvUMIYOhcd3Ne_", "date": "20220723", "instructor": "JB Tellez"}
+
+      },
+      "class-05-dsa": {
+        "primary": {"link": "https://zoom.us/rec/share/eLxNB4_PpP-pYlt2YmzogqZ-6A3dKoUHXfvBbyi4eay9gVX3AO6YnPbccM1zamk.S_MiUO2BA94R2q6f", "date": "20220723", "instructor": "JB Tellez"}
+        ,
+        "backup": {"link": "https://zoom.us/rec/share/eLxNB4_PpP-pYlt2YmzogqZ-6A3dKoUHXfvBbyi4eay9gVX3AO6YnPbccM1zamk.S_MiUO2BA94R2q6f", "date": "20220723", "instructor": "JB Tellez"}
+
+      }
+    },
+    "module-02": {
+      "class-06": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/9xsM9t1VQDUSCljSBxOG2p4k-pcny4MZuXjOqaHqX_q24TAEwhatKjys1lCLrb-O.3Cj3WDU1DrPdb-O7",
+          "date": "20221227",
+          "instructor": "Adam Owada / JB Tellez"
+        },
+        "backup": {"link": "https://zoom.us/rec/share/KeSzEL2WrSfC-YrxKraCJSF3Vd6A0fT1ydAncCcNropXtyvZIk8BJIh-LnUZsII8.oVYZpHYHB3y_iXEs", "date": "20220725", "instructor": "JB Tellez"}
+
+      },
+      "class-07": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/Daf_ab_bFP83AA64VhtUZM1WiEs8y6QU2KrTw_FBPVfVviR2uJdIBA6Dsozg52aj.kG-daPEqIZhMa0bA%C2%A0",
+          "date": "20221228",
+          "instructor": "Adam Owada / JB Tellez"
+        },
+        "backup": {"link": "https://zoom.us/rec/share/8Jt7rUxc2P2wXTCTYrQ2JMT7RyEswdwRT4riU_hPY4H0A4Ua9zNBOule0JpwbHJi.xpDrvKyPlLHn3WpL", "date": "20220726", "instructor": "JB Tellez"}
+
+      },
+      "class-08": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/xQdsmgrjn6IIMxZXuAmVK3e0FD5pkzZ5H9BosBmqYSy6Kdxq56ZVDh5TBoM9q7wQ.shElLQvuKwZawws7%C2%A0",
+          "date": "20221229",
+          "instructor": "Adam Owada / JB Tellez"
+        },
+        "backup": {"link": "https://zoom.us/rec/share/4QnCggYL5r8yh_iPJtdVGqaRXSCbaEVLlztJeMvnlsIbnoTGxwQ1HAqoOAjO_D3R.TS5KNPaAoQgAY6cn", "date": "20220727", "instructor": "JB Tellez"}
+
+      },
+      "class-09": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/_Jh4h5cLVubxY7vuzlvfYY-4HbvmeAIMJ_KwqhcjOJEkpbyK0zOEnQsnHEGS62-f.gIQGWt16I7sMn10o",
+          "date": "20230216",
+          "instructor": "Adam Owada / JB Tellez"
+        },
+        "backup": {"link": "https://zoom.us/rec/share/Zc5-FS8ie2ZdDPOlvwPF_wwDjVi0lkSUhJpo5K_grmTWQMEWLicV2F1Ge7FvmtwA.2qpu-aWiI3YEUxAR", "date": "20220728", "instructor": "JB Tellez"}
+
+      },
+      "class-10-dsa": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/Bbl4xwWIoZPQUzjV_NxRZctkQ5QHivnTmtA1c135qEyRv5SUQULhS5voG3lV2xFi.H4865LBvkZuslYWE%C2%A0",
+          "date": "20221230",
+          "instructor": "Adam Owada / JB Tellez"
+        },
+        "backup": {"link": "https://zoom.us/rec/share/VgBJBoSFpEYjsbb_Z-M4qANiLYrURC3jeZ4sTXjG2hYrK014oNQ514E0_wLPV90N.UEPokfraP0xAc0ko", "date": "20220729", "instructor": "JB Tellez"}
+
+      },
+      "class-10-ccw": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/Me2QFy-H-gxoSDjF_sIA1kqjPx-m-9kvJeXM7cMI9QcQEAsY_WYyNndJ_yxegvr3.896lxOBI87J5vC-r",
+          "date": "20221230",
+          "instructor": "Adam Owada / JB Tellez"
+        },
+        "backup": {"link": "https://zoom.us/rec/share/1ic46f-XohF2gh4XhoniACvig5R12cKLJE38jN6FDGOxi_OuJF0CNk419QuquA1v.pa2_NxuHiLuIQtYu", "date": "20220729", "instructor": "JB Tellez"}
+
+      }
+    },
+    "module-03": {
+      "class-11": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/ZSc8oRFXaNOh-HO4OY47t1OYdv-dwGuxasDFoQH3NkuxQtU8qqA_QEYyamsBiz9C.ynBEv10Xre6SQw7o%C2%A0",
+          "date": "20230102",
+          "instructor": "Adam Owada / JB Tellez"
+        },
+        "backup": {"link": "https://zoom.us/rec/share/s3aAUmdFTae0ysYEUjAgIJGo8UCNimm8npSYfmuklJBBvHb8j9EVouBV96dpTfOF.QyiYBoIXYOxItt0-", "date": "20220801", "instructor": "JB Tellez"}
+
+      },
+      "class-12": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/IIXH1kSdJCWsDsIkV3f1AVQ96S-WJG8D8Co9eVUYVASN83QLVjxhsw4wko3MHNgu.zoK6G2ABtwUPVseu",
+          "date": "20230103",
+          "instructor": "Adam Owada / JB Tellez"
+        },
+        "backup": {"link": "https://zoom.us/rec/share/DVrpmUL_VtYwRFc47U0PVEHpA4tSDox7Nr6TpX1r6N4OngHIcayImYghGugUFB8g.s07R6TosxR04KMot", "date": "20220802", "instructor": "JB Tellez"}
+
+      },
+      "class-13": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/K-ss8PlHjX5nTI4cz24adk9p14XlEwuH0r23R-vEW4LiFDWzeQjFgx-y52-TqSE3.5MB1jf89dcrZYoe6",
+          "date": "20230104",
+          "instructor": ""
+        },
+        "backup": {"link": "https://zoom.us/rec/share/EF_1UVm7ugSQzCQ-39U1k4vTvnRMLKb4ORZlM4OEYodEieVMWIVBBTVOB3h1af3L.k0IX686nqUPDduBq", "date": "20220803", "instructor": "JB Tellez"}
+
+      },
+      "class-14": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/bndeA1rSRfEDqmSu9YBDBOtpp6vT7v50GScqmygs27gi8hy5Z-kKo8ud4Bdnlq02.zdlMuNkn4ZtrHjnK%C2%A0",
+          "date": "20230105",
+          "instructor": "Adam Owada / JB Tellez"
+        },
+        "backup": {"link": "https://zoom.us/rec/share/ONJWb9fg27qdoUOXlm4LaGsDi-LR832I-nKEB-AzhBCHGX8Shj4L3aQ05AOPsmqC.UFetxu_T8jBnR97Y", "date": "20220804", "instructor": "JB Tellez"}
+
+      },
+      "class-15-dsa": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/5b7l5rpEaskRvwevYnTmOsw2Wdc7_ZE99tYY_kUveNtS30wrSn5VKof-39WGx-rp.MWw9wsHvejuQaYUd",
+          "date": "20230106",
+          "instructor": "Adam Owada / JB Tellez"
+        },
+        "backup": {"link": "https://zoom.us/rec/share/hPu7iIZIUOAUEoW531hKIcYTLJGF3CWWuuLAFgu0tiZjk93NRL85TJ3-vmA0y2s0.f3G8pZepnLybPwYo", "date": "20220805", "instructor": "JB Tellez"}
+
+      },
+      "class-15-ccw": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/5rZSY6HwrGg9KIzunYMmNTM5MXzd7CYjgOCrm5rCd0S1GaUXqTbUXc-gB0Wb9FW0.YrAckAEWeLco1_cr%C2%A0",
+          "date": "20230106",
+          "instructor": "Adam Owada / JB Tellez"
+        },
+        "backup": {"link": "https://zoom.us/rec/share/TGAlQunRP0u9DXZ7ge1a6DQIwvCBSbDO-8bsoZcw9IJxhfKaxhs2HEcYZ2qLkiJy.k10jWLjZWJuop6ao%20%20Passcode:%20d#M2CaXX+t", "date": "20220805", "instructor": "JB Tellez"}
+
+      }
+    },
+    "module-04": {
+      "class-16": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/RklkA2v8aOqmYQyRXkZLjwe9zRJYPG6tQEDmSmz9bWhw3mOLxDfkVe-D8PCzNzp7.maGBlGIkYeCLggKy",
+          "date": "20230109",
+          "instructor": "Adam Owada / JB Tellez"
+        },
+        "backup": {"link": "https://zoom.us/rec/share/i478Zv3SM8bKSXa2qW_9rl2YrO5OnARm9mYsLDldyJyf6blEu6Buj21t0zO_Tfq5.mFf6lCGhB1qJSeGa", "date": "20220808", "instructor": "JB Tellez"}
+
+      },
+      "class-17": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/WOmR1OtwVCStmvZ10NXxzU6o0Xu76pZGZqNV8NT-0cW_V1NZZ20xOcxpXJaRFPLC.RQlgc7NLZckglLcx",
+          "date": "20230110",
+          "instructor": "Adam Owada / JB Tellez"
+        },
+        "backup": {"link": "https://zoom.us/rec/share/FrdKMoiWq0hbj7EvWVg-IgZcI2QB0FVx1MAzFN9a2XcHTuPB-gBSlDwEBWloA4qG.qay0EEwDVpa1SFdp", "date": "20220809", "instructor": "JB Tellez"}
+
+      },
+      "class-18": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/B-TIPdnznolBZte0BhZj75bumcFyyxoKWfTRVTpDI2Sq5nO-lSYBb6i1PQiuKqiB.bONcAXW87udLDb-0%C2%A0",
+          "date": "20230111",
+          "instructor": "Adam Owada / JB Tellez"
+        },
+        "backup": {"link": "https://zoom.us/rec/share/q3mVjc67nM2up2MkbtT2JFDgbrjVzUko0jhgzpUIXja0zPz59_Gdcp3lb8IY_JfB.d853brKfnBAszk9a", "date": "20220810", "instructor": "JB Tellez"}
+
+      },
+      "class-19": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/hNrEcBGogUCDCRftAOP4T3ppPu9TUICUkvDXkGKBm446jTdMVIIOcTvNOEEJ3Qgp.9Uqv57Kyt8OKvqBH",
+          "date": "20230112",
+          "instructor": "Adam Owada / JB Tellez"
+        },
+        "backup": {"link": "https://zoom.us/rec/share/NLYjOHv8S9OQlmLz5AaYURrjRpDIAQuBs5Mx7EVWaBdMGq_90p6CEISuCIeWELI3.KzvWMeAhC4T-IKYt", "date": "20220811", "instructor": "JB Tellez"}
+
+      },
+      "class-20": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/Ne-XH8byht1uA2AZ9ccickZ_kDo-RDvrk67DuSnqmuV4pZ5KsQc5Nz1lt_jR_cld.2GYsKqG3wTdvbCti",
+          "date": "20230113",
+          "instructor": "Adam Owada / JB Tellez"
+        },
+        "backup": {"link": "https://zoom.us/rec/share/YHFYY90UVwuMqAXtopE5tBffUyJU9X2GP_3YGz8wwN81bcaQAKmadzzwIuqEK8rm.lZzr15y8Q_8YUJ0B", "date": "20220812", "instructor": "JB Tellez"}
+
+      }
+    },
+    "module-06": {
+      "class-26": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/bvaVplux8MVQBQQZu7gt8TLEnu-yorn5kqKC8Yy3va1x_8qurrwT1BZ49Ov1FxAR.5QuLn8Z9GHhCHtPE%C2%A0",
+          "date": "20230123",
+          "instructor": "Adam Owada / JB Tellez"
+        },
+        "backup": {"link": "https://zoom.us/rec/share/reNwib319qrrjflOFNFRAvqtvD5w6_BC2G2d8nxruqfjsHn7cQI6ugwIrhb__-7A.4wCoFbQoDspecweu", "date": "20220822", "instructor": "JB Tellez"}
+
+      },
+      "class-27": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/iyP1cvJyXdjTE0m377E7XHID84nrm02PdXBoQCs9gFiv2ao7vbntkxvkteqnSeAf.kfpIb2bo7yRb9waU",
+          "date": "20230124",
+          "instructor": "Adam Owada / JB Tellez"
+        },
+        "backup": {"link": "https://zoom.us/rec/share/wg4YbokoZLqazCJeEyBSw6ydjYtcp_XjYywjvh7JFqoYes5A7ffVFtOmWziZArYV.cxnse2NoxdsB1R2x", "date": "20220823", "instructor": "JB Tellez"}
+
+      },
+      "class-28": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/X-B0PyXufx4N9g0pfsR7jH8Wbwad0tQT9-jmux4nfXSBwXMeBG7SxsEZHTsShfqH.hDt8ur9-tGxhBdwL%C2%A0",
+          "date": "20230125",
+          "instructor": "Adam Owada / JB Tellez"
+        },
+        "backup": {"link": "https://zoom.us/rec/share/XK5GlZ_uRiMUWRGDEdGBbmouubyhOrNhsDkPCl1GvbIB4zBgOflMvPVEQzrFKnoy.Iy9GsUbxKiG3nzTq", "date": "20220824", "instructor": "JB Tellez"}
+
+      },
+      "class-29": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/XHgR9xxBmQlmqPgD0JpDv3Drc7sl8_yYFD4XlHyZ3dWhDHxvRVDLGqmyaKEBJ0xx.7hWwNKcJlvkFh8oQ%C2%A0",
+          "date": "20230126",
+          "instructor": "Adam Owada / JB Tellez"
+        },
+        "backup": {"link": "https://zoom.us/rec/share/knyyBe1_w2QJFIvNkNb8YIowSmeO6TG35_SPdCoh8BtMjYwTgSx5NDi9lIa-.l5hDa9YXsgAng9tq", "date": "20220825", "instructor": "JB Tellez"}
+
+      },
+      "class-30-dsa": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/er6MBm-uKCYyxW3ZYexPPlTX81O75YAP6LUb9YicK_CK2P0hq-BTTUzPlCcgoHeD.og7Ru6bQM0ic4qzr",
+          "date": "20230127",
+          "instructor": "Adam Owada / JB Tellez"
+        },
+        "backup": {"link": "https://zoom.us/rec/share/gffwbfhjzQcd7J10FvFq4-wSTdvdzc1yCM5jDS62U538h_7N_L2WL6TzyBfRi5gm.r6t1OduebFYOC5Xo", "date": "20220826", "instructor": "JB Tellez"}
+
+      },
+      "class-30-ccw": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/MljriXjxrQhHIFlTehVGwWbrU84XCYP-jT4VvaDibDhTTClzsi7_g7wHybxM7A73.OjktV1RQh8bMkZMC",
+          "date": "20230127",
+          "instructor": "Adam Owada / JB Tellez"
+        },
+        "backup": {"link": "https://zoom.us/rec/share/h7w2yd1mNJ6bgtzsiF0TeWD29ozhFRcT7SnklP8FcNpyfn0xddAseJv8yslGSICg.nn5CeN-Trl3tyuEP", "date": "20220826", "instructor": "JB Tellez"}
+
+      }
+    },
+    "module-07": {
+      "class-31": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/wdgRDCAGRof8aVcFBtJF0xacWyMYX5yxVH7ojS5o5tRiVhyl26gvi9HhEUOiu9Rc.vsFHv1awv0dRiXXp",
+          "date": "20230130",
+          "instructor": "Adam Owada / JB Tellez"
+        },
+        "backup": {"link": "https://zoom.us/rec/share/7Je_BkRSMfqdBjry438E_RHHd7W3eajWhEkXKF7v6qWlAtrS-C8Z4FFstBNUpxi7.rqf7Pw6vpP3YPWAJ", "date": "20220829", "instructor": "JB Tellez"}
+
+      },
+      "class-32": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/8YVPePJ8xO4_WFHgLLjbkDSxHZHZSX2Iw2JnQmayvDJJ5CNNH3nPX68A0dg1FSeE.nmerchQeimElVqBi",
+          "date": "20230131",
+          "instructor": "Adam Owada / JB Tellez"
+        },
+        "backup": {"link": "https://zoom.us/rec/share/oUB24ru9gSxZYQ1pOiBFd8ogP8_jiPXdbVDVAVLjrmgG-x_U8omaEFl8D1MKokqM.o3wmptLFkiuslMZx", "date": "20220830", "instructor": "JB Tellez"}
+
+      },
+      "class-33": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/4K3-Y2cubFp8He8JuUaK5stVCM-v-TGJWsYCzm2L0M3hUoQ0xzIphO40AnspMf7u.rPxKfbRmanB-dMrY%C2%A0",
+          "date": "20230201",
+          "instructor": "Adam Owada / JB Tellez"
+        },
+        "backup": {"link": "https://zoom.us/rec/share/6gCndh-wlA9NcVqj96_Ojip3x3C1AbBggLGIs-3b3sZUVa6brkEaNnbPFXLAUfay.-hWPG1pmgXrU9tsu", "date": "20220831", "instructor": "JB Tellez"}
+
+      },
+      "class-34": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/fnuw0d8WsUhLqJ5BJp2aBExg06rzoynqvdVO6RstTRnzk5bGM-x-TvcAJA6w2Vk.Nq8gsi5RCxuAodZP",
+          "date": "20230202",
+          "instructor": "JB Tellez"
+        },
+        "backup": {"link": "https://zoom.us/rec/share/09a6hVBHeNeTuSTaib3qenntaVyaNQQHxVIvnh6NgU1aFxIYl7cfkweqwq6h3n3T.s0GjsBWoGwqewpsk", "date": "20220901", "instructor": "JB Tellez"}
+
+      },
+      "class-35-dsa": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/KIaQlC9bd9qGqfcUBQ0SxhtJjEFtQ7PNVQMEVukjkRxyDdXA25_79Bl2G0BtRYIz.G3t2dHRU0ltv9YMD",
+          "date": "20230203",
+          "instructor": "Adam Owada / JB Tellez"
+        },
+        "backup": {"link": "https://zoom.us/rec/share/vVRiybPes_ETlSOpi-NIllLUxyrlmpBNJnA3wV_sWqYuADpzK8dMUvqJdx7gz7kT.XbpJuYHPaF9Oozb3", "date": "20220902", "instructor": "JB Tellez"}
+
+      },
+      "class-35-ccw": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/M5wtNpPNNgic8liaTxGdS1fqJqtdm4KraPAnJZbSq-s14jbONaw_H1hjgPJS2715.6ZOgQH8oez0Iyzi_",
+          "date": "20230203",
+          "instructor": "Adam Owada / JB Tellez"
+        },
+        "backup": {"link": "https://zoom.us/rec/share/MCl8meTBqb9FI0afuYdllDnBNLvlz5ZPWo_f3NZuscRwpJsZfZGkE0nEKINnuCKB.pJlOdWMHZwqdgm3k", "date": "20220902", "instructor": "JB Tellez"}
+
+      }
+    },
+    "module-08": {
+      "class-36": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/rqanNBAZEXjEY-MXlQTsM8eOxJFcaQ7jziydC-XqLICm3ViKu1xxYiVpf0qDV1iY.Adpap4bkS0VK0BXs",
+          "date": "20230206",
+          "instructor": "Adam Owada / JB Tellez"
+        },
+        "backup": {"link": "https://zoom.us/rec/share/rnZJT6oM5BSOF0ch2GDxMRfahSuemUSsCW6c6BXM60yszyVMMw1WpxUawq0sO6i9.0CavjAa-1tqZ6wrl", "date": "20220906", "instructor": "JB Tellez"}
+
+      },
+      "class-37": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/6eA5AuaPBjssffp7VCPoU9t2BoFiS8YN1IhpChJvPNPuV9D7j1vEptgvEVnQVD-N.FNmt9s6qog236dbF",
+          "date": "20230207",
+          "instructor": "Adam Owada / JB Tellez"
+        },
+        "backup": {"link": "https://zoom.us/rec/share/0UkatWpHKRlbUmanQZKkk2yJwd6fxLqz6WEmBsbLG8enPmGKThFKW_l7eKT5778B.07XHm91Tgw17I-sL", "date": "20220907", "instructor": "JB Tellez"}
+
+      },
+      "class-38": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/Qg9OdKiVsdX0WRX6Pb22Y9dsBlIOhmv0LnscVnW5aNZ73gvzNt5tc7P0M2qwGh_F.Hsf__cqBwzNVrEoA%C2%A0",
+          "date": "20230208",
+          "instructor": "Adam Owada / JB Tellez"
+        },
+        "backup": {"link": "https://zoom.us/rec/share/mVTvt-SnquSBhN12wyWxin7fFOijC_6OLfvbqnI6ec2yWKnKK8PCvS19BLJTi7wU.Kn0YUaTOROlKccEN", "date": "20220908", "instructor": "JB Tellez"}
+
+      },
+      "class-39": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/LHvf_Ekw1qaMdNbzfn1U5UvnbCZ8cHInOIASUiqzWi0BuuZsVjyMW3ROnWdYR9k.jY052qJRmYPVXOyt",
+          "date": "20230209",
+          "instructor": "Adam Owada / JB Tellez"
+        },
+        "backup": {"link": "https://zoom.us/rec/share/9ywcahe2D0Gc8UJWvwyypU1pjuVJ2SnBhJQ9NTAHwb_1A57gl7CoH2RlLOKvxEZg.J-DbdZ8ABoDGMi4u", "date": "20220912", "instructor": "JB Tellez"}
+
+      },
+      "class-40-dsa": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/61O56SS4PPXEVTxgT7Ul61H_OlHD_Ur6B6tZyBT76reFASyT8pnDKIpEVaLrYJTK.fl7AVudud9EfZ-2b",
+          "date": "20230210",
+          "instructor": "Adam Owada / JB Tellez"
+        },
+        "backup": {
+          "link": "",
+          "date": "YYYYMMDD",
+          "instructor": "JB Tellez"
+        }
+      },
+      "class-40-ccw": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/6IjOOUV9vrV6Uontte_BQgwX2w-RErGA1o9c84IvU2EnHTs73o7f4AJUncUKVy2U.dVj9T0PjHB2CXBWa",
+          "date": "20230210",
+          "instructor": "Adam Owada / JB Tellez"
+        },
+        "backup": {"link": "https://zoom.us/rec/share/3Cyq4Rx0V2tZUQKO96YEwiO5wvB91wiGOoN94viT2xOTZ2eDi-FvO2AZOQph_icO.yfnGQcCxWBjNkJPt", "date": "20220909", "instructor": "JB Tellez"}
+
+      }
+    },
+    "module-09": {
+      "class-41": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/meewR8vSJQ5Yof3stND0qb8SFNoT3I1-vYMe6Nvh-6uDfjH7pcKZgyqqSxyTYpHr.amqO95GJMhgzPpb6",
+          "date": "20230213",
+          "instructor": "Adam Owada / JB Tellez"
+        },
+        "backup": {"link": "https://zoom.us/rec/share/H-GEkqQmMi1tep85d1T7Y9dLS8ILbZA9JtNS3Lqr1S4MBVW_1nvHIWDUjtGFzRAh.a4ZVpWE5rfK9tOvZ", "date": "20220913", "instructor": "JB Tellez"}
+
+      },
+      "class-42": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/wN1gaXicCXabha5END1olDskbARZtnE536LTtRVUf5__mYfL99tu-xWOgLcu7B2v.A36p8EupZsdu_Ejb",
+          "date": "20230214",
+          "instructor": "Adam Owada / JB Tellez"
+        },
+        "backup": {"link": "https://zoom.us/rec/share/fqO6btUuFCcaGEPF6NnNqV8FyERIxrLMsdy8X0U6VEkBtUWtXTJzblgPjK3V8Fqk.P9ZTrB8scVhb4T4h", "date": "20220914", "instructor": "JB Tellez"}
+
+      },
+      "class-43": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/COIZtYi83uad332JyAesNMd1hVDl1-LifpjjaBLEola-3iPRPXpf2-2_gCJ60wXg.yix6epKZ85Pv-0ej",
+          "date": "20230215",
+          "instructor": "Adam Owada / JB Tellez"
+        },
+        "backup": {"link": "https://zoom.us/rec/share/RRXKFVMb75SJQVRirja0nCAiQ86RNGZbyeEkjXe205KjoOLP2e3Ia09HWsZ06Owa.MvMr8e0Kr9AyfwMt%20", "date": "20220915", "instructor": "JB Tellez"}
+
+      },
+      "class-44": {
+        "primary": {
+          "link": "https://zoom.us/rec/share/_Jh4h5cLVubxY7vuzlvfYY-4HbvmeAIMJ_KwqhcjOJEkpbyK0zOEnQsnHEGS62-f.gIQGWt16I7sMn10o",
+          "date": "20230216",
+          "instructor": "Adam Owada / JB Tellez"
+        },
+        "backup": {"link": "https://zoom.us/rec/share/jxItH5pfFj4nIPbBmBDwp4P2VwRzXYcqWE-9k_SkKTnfKBnebdb-JEVGaWRscgu9.Pd8Hx-J5UYYFjkcg", "date": "20220916", "instructor": "JB Tellez"}
+
+      }
+    }
+  }
+}
