@@ -1,0 +1,12 @@
+{% extends 'base.html'%}
+
+{% block content%}
+    <h1>Things List</h1>
+    <!-- <h2>{{things}}</h2> -->
+    <button><a href="{% url 'thing_create' %}">Create</a></button>
+    {% for thing in things%}
+        <h3><a href="{% url 'thing_detail' thing.pk%}">{{thing.name}}</a></h3>
+        <button><a href="{% url 'thing_update' thing.pk%}">Update</a></button>
+        <button><a href="{% url 'thing_delete' thing.pk%}">Delete</a></button>
+    {%endfor%}
+{% endblock content%}
