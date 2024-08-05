@@ -16,11 +16,14 @@ class HashTable():
     
     def set(self, key, value):
         hashed_key = self.custom_hash(key)
+
         if not self.map[hashed_key]: # if the Bucket is empty
             self.map[hashed_key] = [key,value]
+
         else: # collision happeded
             if isinstance(self.map[hashed_key], LinkedList):
                 self.map[hashed_key].add([key,value])
+                
             else: # if the bucket contains one pair only
                 chain = LinkedList()
                 exsiting_pair = self.map[hashed_key]
